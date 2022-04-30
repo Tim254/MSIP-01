@@ -1,10 +1,80 @@
-.main-nav {
-    display: flex;
-    list-style: none;
-    font-size: 0.9em;
+body {
     margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+label {
+    color: #EC4067;
+    padding: 30px;
+    margin-top: 20px;
+    font-size: xx-large;
 }
 
-li {
-    padding: 20px;
+header li{
+    display: inline;
+    padding-left: 30px;
+}
+header li a {
+    text-decoration: none;
+    color: black;
+}
+.section1{
+    margin: 0px;
+    width: 70%;
+    padding: 100px;
+    font-size: x-large;
+}
+.image1{
+    float: right;
+    width: 600px;
+    height: auto;
+    padding-bottom: 100px;
+}
+.section2{
+    margin: 0px;
+    width: 70%;
+    padding: 100px;
+    font-size: medium;
+}
+.image2div{
+    margin: 0%;
+    padding-top: 150px;
+}
+.image2{
+    float: left;
+    width: 600px;
+    height: auto;
+    padding-bottom: 100px;
+}
+.orientation{
+    margin-left: 800px;
+    font-size: large;
+    margin-top: 90px;
+}
+.section3{
+    margin: 0px;
+    width: 70%;
+    padding: 100px;
+    font-size: medium;
+}
+
+.image3div{
+    margin-right: 0;
+    padding-top: 70px; 
+}
+.image3{
+    float: right;
+    width: 600px;
+    height: auto;
+    padding-bottom: 100px;
+    margin-left: -200px;
+     
+}
+.board {
+    margin: 0px;
+    width: 70%;
+    padding: 100px;
+    
+}.section4 {
+    
 }
