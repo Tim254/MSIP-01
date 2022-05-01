@@ -37,6 +37,28 @@ body {
 .navbarlinks li:hover {
     background-color: grey;
 }
+.headerbutton {
+    background-color: #EC4067;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+    border: none;
+}
+.explorebutton {
+     background-color: white;
+    color: #EC4067;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-color: #EC4067;
+    margin-left: 40px;}
+
 
 
 .section1{
@@ -101,32 +123,28 @@ body {
     width: 70%;
     padding: 100px;
     font-size: medium;
+    display: inline-block;
 }
 .image4 {
     float: left;
-    width: 600px;
+    width: 650px;
     height: auto;
     padding-bottom: 100px
 }
 .graduation {
     margin-left: 800px;
     font-size: large;
-    margin-top: 300px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    padding-bottom: 80px;
 }
-.image4div {
-    margin-right: -0;
-    padding-top: 70px;  
-}
+
 .section5 {
     margin: 0px;
     width: 90%;
     padding: 100px;
-    font-size: large;
-}
-.image4div {
-    margin-right: 0;
-    padding-top: 70px;
-}
+    font-size: large;}
+
 .section5 {
     margin-top: 50px;
     text-align: left;
@@ -158,6 +176,17 @@ body {
     width: auto;
     margin: 10px; 
     justify-content: left; */
+
+.teambutton {
+    background-color: #EC4067;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+    border: none;
 }
 .items h1 {
     color: #EC4067;
@@ -166,8 +195,8 @@ body {
 .section6 .items {
     display: inline-block;
     width: 400px;
-    margin-top: 0px;
-    margin-bottom: 150px;
+    margin-bottom: 0;
+    margin-top: 0;
     margin-left: 150px;
     margin-right: -80px;
 }
@@ -179,7 +208,14 @@ body {
     background-color: beige;
     padding: 20px;
     text-align: center;
-    margin: 25px;
+    margin: 25px 25px;
+    padding-left: 100px;
 }
-
+button:hover{
+    transform: scale(1.54);
+}
+img:hover {
+    opacity: 0.8;
+    box-shadow: 10px 10px #EC4067;
+}
     
