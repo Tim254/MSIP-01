@@ -35,7 +35,7 @@ body {
     display: block;
 }
 .navbarlinks li:hover {
-    background-color: grey;
+    background-color: #EC4067;
 }
 .headerbutton {
     background-color: #EC4067;
@@ -212,10 +212,10 @@ body {
     padding-left: 100px;
 }
 button:hover{
-    transform: scale(1.54);
+    transform: scale(1.20);
 }
 img:hover {
     opacity: 0.8;
-    box-shadow: 10px 10px #EC4067;
+    box-shadow: 10px 10px 15px #EC4067;
 }
     
