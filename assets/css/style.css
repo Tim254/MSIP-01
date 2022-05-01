@@ -1,5 +1,5 @@
 
-
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&display=swap');
 body {
     margin: 0;
     padding: 0;
@@ -12,16 +12,20 @@ body {
     align-items: center;
 }
 .moringaskul {
-    font-size: 2.5rem;
-    margin: 2rem;
+    font-size: 2.9rem;
+    margin: 3rem;
+    padding-left: 50px;
 }
 .navbarlinks ul {
-    margin: 0;
+    margin: 20px;
     padding: 0;
     display: flex;
 }
 .navbarlinks li {
     list-style: none;
+    margin-right: 20px;
+    font-size: larger;
+    padding: 0;
 
 }
 .navbarlinks li a {
@@ -115,7 +119,7 @@ body {
 }
 .section5 {
     margin: 0px;
-    width: 70%;
+    width: 90%;
     padding: 100px;
     font-size: large;
 }
@@ -125,10 +129,25 @@ body {
 }
 .section5 {
     margin-top: 50px;
-    text-align:  ;
+    text-align: left;
+}
+.section5 span{
+    font-size: 15px;
+}
+.section5 h3 {
+    font-size: large;
+    color: #EC4067;
+}
+.section5 .mentors {
+    justify-content: space-evenly;
+    display: inline-block;
+}
+/* .section5 {
+    margin-top: 60px;
+    text-align: center;
 }
 .section5 h4 {
-    font-size: medium;
+    font-size: 20px;
 }
 .section5 h3 {
     font-size: large;
@@ -136,8 +155,9 @@ body {
 }
 .section5  .mentors {
     display: inline-block;
-    width: auto
-    margin: 5px; 
+    width: auto;
+    margin: 10px; 
+    justify-content: left; */
 }
 .items h1 {
     color: #EC4067;
