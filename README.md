@@ -32,7 +32,7 @@ List the ready features here:
 
 
 ## Screenshots
-![Example screenshot](./assets/images/Snippet.png)
+![Example screenshot](./assets/images/School%20Landing%20Page.png)
 
 
 
