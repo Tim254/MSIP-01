@@ -1,23 +1,40 @@
+
+
 body {
     margin: 0;
     padding: 0;
     overflow-x: hidden;
+    font-family: 'Nunito'
 }
-label {
-    color: #EC4067;
-    padding: 30px;
-    margin-top: 20px;
-    font-size: xx-large;
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
+.moringaskul {
+    font-size: 2.5rem;
+    margin: 2rem;
+}
+.navbarlinks ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+.navbarlinks li {
+    list-style: none;
 
-header li{
-    display: inline;
-    padding-left: 30px;
 }
-header li a {
+.navbarlinks li a {
     text-decoration: none;
     color: black;
+    padding: 3rem;
+    display: block;
 }
+.navbarlinks li:hover {
+    background-color: grey;
+}
+
+
 .section1{
     margin: 0px;
     width: 70%;
@@ -137,7 +154,12 @@ header li a {
 .bikepic {
     float: right;
     margin-right: 450px;
-
+}
+.footer {
+    background-color: beige;
+    padding: 20px;
+    text-align: center;
+    margin: 25px;
 }
 
     
