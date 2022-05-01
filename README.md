@@ -25,10 +25,13 @@
 
 
 ## Objectives
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+
+- Correct use of HTML Elements and tags 
+- The page incorporates a custom-made stylesheet 
+- Use of at least 4 of the following styling rules
+- The web page is visually appealing
+- The project design
+- The page is published/deployed to gh-pages
 
 
 ## Screenshots
